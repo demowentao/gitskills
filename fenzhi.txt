@@ -1,4 +1,11 @@
+﻿<<<<<<< HEAD
 ﻿哈哈dev
 haha
 new dev1
 master
+=======
+哈哈dev
+haha
+new dev1
+master
+>>>>>>> feature1
